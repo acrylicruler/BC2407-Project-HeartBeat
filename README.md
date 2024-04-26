@@ -8,6 +8,9 @@ Team Members: Sally, Tenia, Joleen, Shi Zhen, Lee Tin
   1. [RScript](https://github.com/acrylicruler/BC2407-Project-HeartBeat/tree/main/code)
   2. Report
   3. Presentation Slides
-  4. PowerBI Dashboard 
+  4. PowerBI Dashboard
+  5. [Data Dictionary](https://github.com/acrylicruler/BC2407-Project-HeartBeat/tree/main/docs)
+
+*Due to the large size of the dataset, the original data set can be downloaded from the CDC website: [2022 BRFSS Survey Data and Documentation](https://www.cdc.gov/brfss/annual_data/annual_2022.html)
   
 
