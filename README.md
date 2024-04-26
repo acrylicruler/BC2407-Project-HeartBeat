@@ -6,7 +6,7 @@ Team Members: Sally, Tenia, Joleen, Shi Zhen, Lee Tin
 
 ## Table of Contents
   1. [RScript](https://github.com/acrylicruler/BC2407-Project-HeartBeat/tree/main/code)
-  2. Report
+  2. [Report](https://github.com/acrylicruler/BC2407-Project-HeartBeat/tree/main/report)
   3. Presentation Slides
   4. PowerBI Dashboard
   5. [Data Dictionary](https://github.com/acrylicruler/BC2407-Project-HeartBeat/tree/main/docs)
