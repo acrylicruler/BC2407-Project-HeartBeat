@@ -5,10 +5,9 @@ This repository houses the predictive models and analysis for Project HeartBeat,
 Team Members: Sally, Tenia, Joleen, Shi Zhen, Lee Tin
 
 ## Table of Contents
-  1. Dataset
-  2. RScript
-  3. Report
-  4. Presentation Slides
-  5. Interactive Dashboard 
+  1. [RScript](https://github.com/acrylicruler/BC2407-Project-HeartBeat/tree/main/code)
+  2. Report
+  3. Presentation Slides
+  4. PowerBI Dashboard 
   
 
